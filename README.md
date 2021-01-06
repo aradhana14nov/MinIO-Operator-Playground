@@ -1,1 +1,1 @@
-# WordPress Helm-Operator
+# MinIO Operator
